@@ -204,7 +204,14 @@
   {
    "id": "c415f217-4c70-82fa-4c0a-3a3bdad1b5c9",
    "title": "Update Activity",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_find_beer.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Update-Activity-c415.md",
@@ -215,7 +222,18 @@
   {
    "id": "bf7bd070-18b4-e5ce-4694-8ef0fe910887",
    "title": "Add an Array",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-an-Array-bf7b.md",
@@ -226,7 +244,13 @@
   {
    "id": "55b04a6a-778f-71ba-5051-294a1e55072e",
    "title": "Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-55b0.md",
@@ -248,7 +272,14 @@
   {
    "id": "e8f263c7-4541-76a3-9fe0-247644f7fd1b",
    "title": "Add onClick",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_find_beer.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-onClick-e8f2.md",
@@ -259,7 +290,13 @@
   {
    "id": "3d5ee462-d844-e7cd-6480-8ac5f8416d77",
    "title": "Change Activity File",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Change-Activity-File-3d5e.md",
@@ -270,7 +307,13 @@
   {
    "id": "7a310a99-e47f-4d8d-06e6-871bbdeb1589",
    "title": "R.java",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/R-java-7a31.md",
@@ -303,7 +346,14 @@
   {
    "id": "822fafb0-9e2b-d51b-e03c-fc70b0d67a96",
    "title": "Create New Java Class",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/beeradviser/BeerExpert.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Create-New-Java-Class-822f.md",
@@ -314,7 +364,13 @@
   {
    "id": "b7968b84-d395-3527-2aa7-22ae3f0bb78e",
    "title": "Update onClickFindBeer",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Update-onClickFindBeer-b796.md",
@@ -351,6 +407,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap---Setting-Text-440e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bde0373d-813a-ea03-f60f-3bf7abe82394",
+   "title": "Build the app!",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-the-app--bde0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
