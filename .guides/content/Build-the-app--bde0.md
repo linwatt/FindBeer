@@ -5,7 +5,7 @@ To build the app, enter the following in the terminal:
 ./gradlew build
 ```
 
-If you receive a 'permission denied error, enter the following:
+If you receive a permission denied error, enter the following:
 ```
 chmod +x gradlew
 ```
